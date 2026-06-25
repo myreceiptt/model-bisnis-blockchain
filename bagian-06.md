@@ -135,6 +135,7 @@ N.B. Semua materi edukasi ini selalu diperbarui dan telah digunakan dan disampai
 * [**Web3 on Campus: Petra Christian University Surabaya - 17 April 2023**](https://web3campus.idnft.id/)
 * **BANANOW Land - Class NOW - Sepanjang 2022 - 2023**
 * [**Road to DevCon Ethereum 2024: Halo Ethereum - 7 Desember 2023**](https://pintu.co.id/news/61828-pintu-sponsori-event-halo-ethereum)
+* Hybrid Workshop PT Peruri Digital Security (PDS) - September 2025
 
 N.B. 2. Jika kamu merasa materi ini bermanfaat, **bagikan kepada saudaramu, temanmu, komunitasmu, atau mereka yang sedang mencari cara baru untuk membangun nilainya sendiri**. Karena materi ini bukan hanya untuk kita yang membaca ini — tapi juga untuk mereka yang belum tahu.
 

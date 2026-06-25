@@ -2,6 +2,27 @@
 description: Peran Ekonomi dalam Ekosistem Blockchain.
 cover: .gitbook/assets/covet-gitbook (1).png
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 🔏 Bagian 02
@@ -40,13 +61,13 @@ Validator adalah tulang punggung dari jaringan blockchain. Mereka menjalankan no
 
 ### **Biaya & Risiko:**
 
-* Perlu perangkat keras (server) dan koneksi stabil).
+* Perlu perangkat keras (server) dan koneksi stabil.
 * Risiko slashing (hukuman) jika offline atau tidak jujur.
 * Perlu pemahaman teknis dan tanggung jawab tinggi.
 
 Contoh sukses: validator Ethereum, Solana, Cosmos.
 
-Beberapa komunitas di Indonesia sudah menjalankan node, bahkan sebagai kooperasi.
+Beberapa komunitas di Indonesia sudah menjalankan node, bahkan sebagai koperasi.
 
 <figure><img src=".gitbook/assets/02a (1).png" alt=""><figcaption><p>Validator / Node Operator</p></figcaption></figure>
 
